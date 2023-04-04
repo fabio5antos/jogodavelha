@@ -22,7 +22,7 @@ Este jogo foi desenvolvido usando as seguintes tecnologias:
 
 ## Como personalizar o jogo
 - Você pode personalizar o jogo para atender às suas necessidades alterando o código fonte. Algumas possíveis personalizações incluem:
-> Alterar o tamanho do tabuleiro: o tamanho padrão do tabuleiro é 3x3, mas você pode aumentar ou diminuir o tamanho alterando a variável boardSize no arquivo index.js.
+> Alterar o tamanho do tabuleiro: o tamanho padrão do tabuleiro é 3x3, mas você pode aumentar ou diminuir o tamanho alterando a variável boardSize no arquivo script.js.
 Alterar as cores do jogo: você pode alterar as cores do jogo alterando as propriedades CSS nas classes correspondentes no arquivo style.css.
 Adicionar animações: você pode adicionar animações ao jogo usando bibliotecas de animação JavaScript, como Animate.css.
 
